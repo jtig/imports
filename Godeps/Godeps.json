@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/peak6/imports",
+	"GoVersion": "go1.5",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-139-g142e6cd",
+			"Rev": "142e6cd241a4dfbf7f07a018f1f8225180018da4"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/ast/astutil",
+			"Rev": "31971b752158ba9a2e6f5f4f01677ba1c075ef16"
+		}
+	]
+}
